@@ -1,4 +1,4 @@
-# Love-Mesh
+# Löve-Mesh
 A simple lua UI library for Löve2D Framework
 
 <ins>Available types :</ins>
