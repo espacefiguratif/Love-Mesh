@@ -1,6 +1,8 @@
 # Löve-Mesh
 A simple lua UI library for Löve2D Framework
 
+## Advancement.
+
 <ins>Available types :</ins>
 - [ ] Image
 - [ ] Button
@@ -14,6 +16,7 @@ A simple lua UI library for Löve2D Framework
 - [x] px
 - [x] %
 
+## How to use it.
 
 <ins>To import this library :</ins>
   ```lua
@@ -51,3 +54,8 @@ A simple lua UI library for Löve2D Framework
   | height        | Integer       | Length on the y-axis of the draw field |
   
   
+## License & copyright.
+
+© Tom ROUET 
+
+Licensed under the [GNU License](LICENSE).
