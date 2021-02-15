@@ -1,3 +1,5 @@
+# Warning, this project as never been finished
+
 # Löve-Mesh
 A simple lua UI library for Löve2D Framework
 
